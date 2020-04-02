@@ -6,4 +6,6 @@ initialize the repo with command: npm init
 install packages from npmjs.com
 
 Packages:
-a)npm i validator
+a) validator
+b) chalk
+c) yargs

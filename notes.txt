@@ -1,2 +1,0 @@
-This is my First line in Node app
-This is my Second linein Node app
